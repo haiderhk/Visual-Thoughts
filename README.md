@@ -48,5 +48,34 @@ Watch the app in action at [Visual Thoughts](https://youtube.com)
 - Share journal entries with friends and foster a "social media journaling" experience
 - Interact with others' shared journals through comments and reactions
 - Create a collaborative journaling ecosystem to connect and grow together
+---
+## 🚀 Generate Your First Journal!
+
+### Set Your Journal Preferences
+
+![Preferences-Android](https://github.com/user-attachments/assets/8d0b3394-3eaa-411b-8797-1849c59645a6)
+
+Visual Thoughts puts personalization at the forefront of your journaling experience. Craft your unique journaling style by selecting from various writing tones (formal to casual), focus areas (personal growth, mindfulness, achievements), and formatting preferences (structured paragraphs or bullet points). Make your entries location-smart by saving frequent spots as personalized labels like 'Home' or 'Office', adding meaningful context to each entry. These customization options work seamlessly with our AI to generate journal entries that authentically capture your voice, style, and daily experiences.
+
+### Start Journaling!
+
+![VT-GitHub6](https://github.com/user-attachments/assets/55214bf5-c6b9-4e78-a230-6f018d9e5ebd)
+
+---
+
+## 🌐 Share your Journal via Social Journaling!
+
+### Search and Add Friends
+
+![Friends](https://github.com/user-attachments/assets/3e1f5592-9627-4304-9c88-623db10ae217)
+
+### Start Sharing!
+
+![VT-GitHub-sharing-final](https://github.com/user-attachments/assets/62893da6-f4cc-45c3-ac4a-463f234f5d43)
+
+Transform you journaling experience from solitary reflection to shared growth:
+- **Share Controls**: Choose what to share and with whom
+- **Interactive Elements**: React and comment on shared journals
+- **Community Building**: Connect with like-minded journalers
 
 ---
