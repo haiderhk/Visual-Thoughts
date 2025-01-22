@@ -171,7 +171,7 @@ We're excited to announce that Visual Thoughts will be launching soon on both iO
 
 - ⭐ Star this repository
 - 🔔 Watch this repository for updates
-- 🌐 Visit our webiste [Visual Thoughts](https://visual-thoughts-web.vercel.app)
+- 🌐 Visit our website [Visual Thoughts](https://visual-thoughts-web.vercel.app)
 
 ## 🙏 Acknowledgements
 
