@@ -4,7 +4,8 @@
 
 **Visual Thoughts** is an innovative cross-platform mobile journaling application that revolutionizes traditional journaling by leveraging the power of Generative AI. The app creates meaningful, context-aware journal entries from your photos while preserving the emotional depth of your experiences.
 
-Watch the app in action at [Visual Thoughts](https://youtu.be/kxB7kZWIoDk)
+Watch the app in action at [Visual Thoughts](https://youtu.be/kxB7kZWIoDk)  
+Join the waitlist at [VisualThoughts.com](https://visual-thoughts.vercel.app/)
 
 ![VT-GitHub-screenshots](https://github.com/user-attachments/assets/204b75f9-a224-4553-8782-a4f6f5b72102)
 
